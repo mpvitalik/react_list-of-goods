@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_list-of-goods/static/css/main.ee8e5a85.chunk.css",
-    "main.js": "/react_list-of-goods/static/js/main.83754aaa.chunk.js",
-    "main.js.map": "/react_list-of-goods/static/js/main.83754aaa.chunk.js.map",
+    "main.js": "/react_list-of-goods/static/js/main.4b463f4d.chunk.js",
+    "main.js.map": "/react_list-of-goods/static/js/main.4b463f4d.chunk.js.map",
     "runtime~main.js": "/react_list-of-goods/static/js/runtime~main.14fd7ef8.js",
     "runtime~main.js.map": "/react_list-of-goods/static/js/runtime~main.14fd7ef8.js.map",
     "static/js/2.97294558.chunk.js": "/react_list-of-goods/static/js/2.97294558.chunk.js",
     "static/js/2.97294558.chunk.js.map": "/react_list-of-goods/static/js/2.97294558.chunk.js.map",
     "index.html": "/react_list-of-goods/index.html",
-    "precache-manifest.d14f6c09f3e22738d4b10a26045290d2.js": "/react_list-of-goods/precache-manifest.d14f6c09f3e22738d4b10a26045290d2.js",
+    "precache-manifest.cfcdf59b9fe17ca6b9b575491718a9c9.js": "/react_list-of-goods/precache-manifest.cfcdf59b9fe17ca6b9b575491718a9c9.js",
     "service-worker.js": "/react_list-of-goods/service-worker.js",
     "static/css/main.ee8e5a85.chunk.css.map": "/react_list-of-goods/static/css/main.ee8e5a85.chunk.css.map"
   }
